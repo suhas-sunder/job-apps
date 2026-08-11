@@ -4,8 +4,8 @@ _Last reviewed: 2026-08-11_
 
 ## Pipeline at a Glance
 
-- **Confirmed applications tracked:** 3
-- **Active:** 2
+- **Confirmed applications tracked:** 4
+- **Active:** 3
 - **Rejected:** 1
 - **Interviews / assessments / offers:** 0
 
@@ -13,7 +13,7 @@ _Last reviewed: 2026-08-11_
 
 ```mermaid
 flowchart LR
-    S["Confirmed Applications<br/>3"] -->|2| A["Applied<br/>2"]
+    S["Confirmed Applications<br/>4"] -->|3| A["Applied<br/>3"]
     S -->|1| R["Rejected<br/>1"]
 ```
 
@@ -24,7 +24,7 @@ flowchart LR
 | Status | Count |
 |---|---:|
 | Considering | 0 |
-| Applied | 2 |
+| Applied | 3 |
 | Recruiter Screen | 0 |
 | Interview | 0 |
 | Assessment | 0 |
@@ -40,6 +40,7 @@ flowchart LR
 |---|---|---|---|---|---|---|
 | WSP | Early Professional, Transmission Line Engineer/Designer | Edmonton, AB | Power/Grid | 2026-08-11 | Applied | 2026-08-11 |
 | Phasor Engineering Inc | Electrical EIT | Not confirmed | Electrical Engineering | 2026-08-11 | Applied | 2026-08-11 |
+| TRS Staffing Solutions | Electrical Project Engineer | British Columbia, Canada | Electrical / Project Engineering | 2026-08-11 | Applied | 2026-08-11 |
 
 ## Closed / Terminal Applications
 
@@ -51,6 +52,7 @@ flowchart LR
 
 - Monitor WSP for recruiter follow-up after application confirmation and identity verification.
 - Monitor Phasor Engineering for employer response.
+- Monitor TRS Staffing Solutions for employer or recruiter follow-up.
 
 ## Recent Changes
 
