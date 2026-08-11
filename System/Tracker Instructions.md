@@ -26,8 +26,8 @@ This repository is the durable source of truth for Suhas's job applications.
 - `status` in YAML is the current status.
 - Record meaningful status changes in the application's Timeline section.
 - Do not infer a rejection merely because there has been no response.
-- Do not infer an application was submitted from a job alert or saved-job email.
-- If evidence is ambiguous, record it in Notes and leave the existing status unchanged.
+- Do not infer an application was submitted from a job alert, saved-job email, candidate-account login/reset, or similar account activity alone.
+- If evidence is ambiguous, record it in Notes only when useful and leave the existing status unchanged.
 
 ## Email-derived updates
 
@@ -38,6 +38,8 @@ When email access is available:
 - Match incoming messages to an existing application before creating a new record.
 - Record dates from the actual message or event, not merely the date the tracker is being updated.
 - Avoid storing unnecessary personal or confidential email content. Summarize only what is useful to the job search.
+- Ignore job-alert/newsletter messages unless they contain explicit evidence that Suhas actually submitted an application.
+- When a review window is specified, do not import applications or status history from before that window unless later in-window correspondence is necessary to represent the current status of an application.
 
 ## Dashboard
 
@@ -45,8 +47,22 @@ After changing application records:
 
 - Recalculate status counts from the application notes.
 - Keep `Active Applications` focused on applications that still require monitoring or action.
+- Keep terminal outcomes in a separate section when useful for quick scanning.
 - Keep `Follow-Ups / Action Items` specific and actionable.
 - Update the `Last reviewed` date when the dashboard has been reconciled against the application records.
+
+### Pipeline visualization
+
+Every requested tracker reconciliation should also regenerate the `Pipeline Flow` Mermaid diagram in `Dashboard.md`.
+
+- Use a left-to-right Mermaid flowchart so it renders directly in Obsidian without requiring a community plugin.
+- Derive counts from the application notes and their confirmed timelines, never from memory alone.
+- Show only evidence-backed applications.
+- Prefer meaningful stage transitions when enough history exists, for example `Applied -> Recruiter Screen -> Interview -> Offer` with rejection/withdrawal branches.
+- If earlier transition history is not known, use `Confirmed Applications` as the root and branch to the current confirmed statuses rather than inventing intermediate steps.
+- Label edges or nodes with counts so the chart remains useful at a glance.
+- Reconcile the diagram with the numerical status table before committing changes; they must agree.
+- Keep the diagram compact as the tracker grows. Do not display zero-count branches unless they materially improve readability.
 
 ## Update log
 
