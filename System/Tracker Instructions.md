@@ -25,9 +25,17 @@ This repository is the durable source of truth for Suhas's job applications.
 - Use only canonical statuses from `System/Status Definitions.md` unless the taxonomy is deliberately revised.
 - `status` in YAML is the current status.
 - Record meaningful status changes in the application's Timeline section.
-- Do not infer a rejection merely because there has been no response.
+- Do not label an application `Rejected` merely because there has been no response. Use `Closed / No Response` under the aging rule instead.
 - Do not infer an application was submitted from a job alert, saved-job email, candidate-account login/reset, or similar account activity alone.
+- A direct user confirmation from an employer candidate portal, such as Workday showing the role as applied/submitted, is valid application evidence even if no confirmation email exists.
 - If evidence is ambiguous, record it in Notes only when useful and leave the existing status unchanged.
+
+### Aging rule for silent applications
+
+- During tracker reconciliation, measure inactivity from the most recent confirmed employer/application-stage activity.
+- If an application has had **30 calendar days with no employer activity**, move it to `Closed / No Response` unless there is concrete evidence that the process is still active.
+- This is an operational tracking assumption, not evidence that the employer explicitly rejected the candidate.
+- If later employer contact arrives, reopen the application and move it to the appropriate confirmed stage.
 
 ## Email-derived updates
 
