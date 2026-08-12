@@ -18,3 +18,6 @@ Chronological record of material changes to the job application tracker.
 - Added a Mermaid `Pipeline Flow` visualization to `Dashboard.md` and made regeneration of that visualization mandatory for future tracker reconciliations.
 - Rechecked Hotmail for messages received after the prior reconciliation. Found a LinkedIn confirmation that the `Electrical Project Engineer` application was sent to TRS Staffing Solutions, British Columbia, Canada, on 2026-08-11.
 - Added TRS Staffing Solutions `Electrical Project Engineer` as Applied and refreshed dashboard totals from 3 to 4 tracked applications.
+- Added Capital One `Associate, Software Engineer, New Grad Card Expansion` after Suhas confirmed the Workday candidate portal shows an application submitted on 2026-08-10. The prior password-reset email remains insufficient evidence on its own, but direct candidate-portal confirmation is now accepted as valid evidence.
+- Added a 30-calendar-day inactivity aging rule: applications with no employer activity are moved to `Closed / No Response` during reconciliation unless concrete evidence indicates the process is still active. This status is operational and must not be represented as an explicit rejection.
+- Refreshed dashboard totals from 4 to 5 tracked applications.
