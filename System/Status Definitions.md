@@ -13,7 +13,7 @@ Use these canonical statuses for application notes and dashboard counts.
 | Offer | Written or explicit verbal offer received |
 | Rejected | Employer explicitly declined the application or candidacy |
 | Withdrawn | Suhas explicitly withdrew or chose to stop pursuing the application |
-| Closed / No Response | Application is no longer being actively tracked after a deliberate decision to close it, including stale applications with no response; do not assign this automatically solely because time has passed |
+| Closed / No Response | Application is no longer being actively tracked because it has been deliberately closed or has reached 30 calendar days with no employer activity under the tracker aging rule |
 
 ## Status rules
 
@@ -21,4 +21,6 @@ Use these canonical statuses for application notes and dashboard counts.
 - Do not downgrade an application merely because a later email is generic or automated.
 - If an interview and assessment overlap, use the stage that best represents the employer's current process and record both events in the timeline.
 - Rejection, withdrawal, and closure are terminal unless later evidence shows the application was reopened.
+- `Closed / No Response` is not equivalent to an explicit employer rejection. It is an operational status for stale applications.
+- If employer contact arrives after a `Closed / No Response` status, reopen the application to the appropriate confirmed stage.
 - An offer remains `Offer` until accepted/declined tracking is deliberately added to this taxonomy.
