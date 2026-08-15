@@ -2,6 +2,13 @@
 
 Chronological record of material changes to the job application tracker.
 
+## 2026-08-14
+
+- Added Morson Edge `Junior Engineer - NERC` after Suhas confirmed a completed LinkedIn Easy Apply submission on 2026-08-14.
+- Recorded the posting as an Engineer-E2 assignment supporting BC Hydro Generation Capital Project OT Services, with a contract term of August 24, 2026 through August 23, 2028.
+- Preserved the posting's location discrepancy: LinkedIn header lists Burnaby, BC (On-site), while the job description lists Edmonds, BC (Hybrid).
+- Refreshed dashboard totals from 5 to 6 confirmed applications, with 5 active and 1 rejected.
+
 ## 2026-08-11
 
 - Initialized the repository as an Obsidian-compatible job application tracker.
