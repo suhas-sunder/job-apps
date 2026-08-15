@@ -1,11 +1,11 @@
 # Job Application Dashboard
 
-_Last reviewed: 2026-08-11_
+_Last reviewed: 2026-08-14_
 
 ## Pipeline at a Glance
 
-- **Confirmed applications tracked:** 5
-- **Active:** 4
+- **Confirmed applications tracked:** 6
+- **Active:** 5
 - **Rejected:** 1
 - **Interviews / assessments / offers:** 0
 
@@ -13,7 +13,7 @@ _Last reviewed: 2026-08-11_
 
 ```mermaid
 flowchart LR
-    S["Confirmed Applications<br/>5"] -->|4| A["Applied<br/>4"]
+    S["Confirmed Applications<br/>6"] -->|5| A["Applied<br/>5"]
     S -->|1| R["Rejected<br/>1"]
 ```
 
@@ -24,7 +24,7 @@ flowchart LR
 | Status | Count |
 |---|---:|
 | Considering | 0 |
-| Applied | 4 |
+| Applied | 5 |
 | Recruiter Screen | 0 |
 | Interview | 0 |
 | Assessment | 0 |
@@ -42,6 +42,7 @@ flowchart LR
 | WSP | Early Professional, Transmission Line Engineer/Designer | Edmonton, AB | Power/Grid | 2026-08-11 | Applied | 2026-08-11 |
 | Phasor Engineering Inc | Electrical EIT | Not confirmed | Electrical Engineering | 2026-08-11 | Applied | 2026-08-11 |
 | TRS Staffing Solutions | Electrical Project Engineer | British Columbia, Canada | Electrical / Project Engineering | 2026-08-11 | Applied | 2026-08-11 |
+| Morson Edge | Junior Engineer - NERC | Edmonds, BC (Hybrid; LinkedIn header lists Burnaby, BC) | Power/Grid / OT & NERC | 2026-08-14 | Applied | 2026-08-14 |
 
 ## Closed / Terminal Applications
 
@@ -55,6 +56,7 @@ flowchart LR
 - Monitor WSP for recruiter follow-up after application confirmation and identity verification.
 - Monitor Phasor Engineering for employer response.
 - Monitor TRS Staffing Solutions for employer or recruiter follow-up.
+- Monitor Morson Edge / BC Hydro for recruiter follow-up on the Junior Engineer - NERC application.
 
 ## Recent Changes
 
@@ -67,3 +69,4 @@ See [[System/Update Log]].
 - Historical status changes belong in each application note and in the update log when material.
 - August email review intentionally excludes job alerts and other messages that do not confirm an application was submitted.
 - Employer candidate-portal confirmation supplied directly by Suhas is valid submission evidence even when no confirmation email exists.
+- Direct user confirmation of a completed LinkedIn Easy Apply submission is also valid application evidence.
