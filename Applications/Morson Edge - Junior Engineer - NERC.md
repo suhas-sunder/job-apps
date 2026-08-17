@@ -5,8 +5,8 @@ location: "Edmonds, BC (Hybrid; LinkedIn header lists Burnaby, BC)"
 category: "Power/Grid / OT & NERC"
 date_applied: "2026-08-14"
 status: "Applied"
-last_update: "2026-08-14"
-source: "User-confirmed LinkedIn Easy Apply + uploaded LinkedIn posting"
+last_update: "2026-08-16"
+source: "User-confirmed LinkedIn Easy Apply + uploaded LinkedIn posting + LinkedIn application-view notification"
 job_url: "https://www.linkedin.com/jobs/view/junior-engineer-nerc-at-morson-edge-4452793211/"
 recruiter: "Madelaine Youngson"
 resume_version: ""
@@ -17,7 +17,7 @@ cover_letter: ""
 
 ## Summary
 
-LinkedIn Easy Apply submission confirmed by Suhas on 2026-08-14. The posting is for an Engineer-E2 supporting BC Hydro Generation Capital Project OT Services through Morson Edge.
+LinkedIn Easy Apply submission confirmed by Suhas on 2026-08-14. The posting is for an Engineer-E2 supporting BC Hydro Generation Capital Project OT Services through Morson Edge. LinkedIn confirmed that Morson Edge viewed the application on 2026-08-16.
 
 ## Application
 
@@ -49,6 +49,7 @@ LinkedIn Easy Apply submission confirmed by Suhas on 2026-08-14. The posting is 
 ## Timeline
 
 - **2026-08-14 — Applied:** Suhas confirmed LinkedIn Easy Apply submission.
+- **2026-08-16 — Application viewed:** LinkedIn notified Suhas that the hiring team at Morson Edge viewed the application. Status remains `Applied`; this counts as employer activity for the inactivity-aging clock.
 
 ## Interview Notes
 
