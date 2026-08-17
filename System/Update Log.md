@@ -2,6 +2,13 @@
 
 Chronological record of material changes to the job application tracker.
 
+## 2026-08-17
+
+- Reconciled Hotmail messages received since the prior tracker review.
+- LinkedIn confirmed that Morson Edge viewed the `Junior Engineer - NERC` application on 2026-08-16. Status remains `Applied`; the view is recorded as employer activity and resets the 30-day inactivity-aging clock for that application.
+- No new recruiter screens, interview invitations, assessments, offers, explicit rejections, withdrawals, or other application-stage changes were found in the reviewed mail.
+- No active application reached the 30-calendar-day `Closed / No Response` threshold.
+
 ## 2026-08-14
 
 - Added Morson Edge `Junior Engineer - NERC` after Suhas confirmed a completed LinkedIn Easy Apply submission on 2026-08-14.
