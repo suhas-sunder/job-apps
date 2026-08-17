@@ -1,6 +1,6 @@
 # Job Application Dashboard
 
-_Last reviewed: 2026-08-14_
+_Last reviewed: 2026-08-17_
 
 ## Pipeline at a Glance
 
@@ -42,7 +42,7 @@ flowchart LR
 | WSP | Early Professional, Transmission Line Engineer/Designer | Edmonton, AB | Power/Grid | 2026-08-11 | Applied | 2026-08-11 |
 | Phasor Engineering Inc | Electrical EIT | Not confirmed | Electrical Engineering | 2026-08-11 | Applied | 2026-08-11 |
 | TRS Staffing Solutions | Electrical Project Engineer | British Columbia, Canada | Electrical / Project Engineering | 2026-08-11 | Applied | 2026-08-11 |
-| Morson Edge | Junior Engineer - NERC | Edmonds, BC (Hybrid; LinkedIn header lists Burnaby, BC) | Power/Grid / OT & NERC | 2026-08-14 | Applied | 2026-08-14 |
+| Morson Edge | Junior Engineer - NERC | Edmonds, BC (Hybrid; LinkedIn header lists Burnaby, BC) | Power/Grid / OT & NERC | 2026-08-14 | Applied | 2026-08-16 |
 
 ## Closed / Terminal Applications
 
@@ -56,7 +56,7 @@ flowchart LR
 - Monitor WSP for recruiter follow-up after application confirmation and identity verification.
 - Monitor Phasor Engineering for employer response.
 - Monitor TRS Staffing Solutions for employer or recruiter follow-up.
-- Monitor Morson Edge / BC Hydro for recruiter follow-up on the Junior Engineer - NERC application.
+- Monitor Morson Edge / BC Hydro for recruiter follow-up. Morson Edge viewed the application on 2026-08-16, resetting the inactivity-aging clock from that employer activity.
 
 ## Recent Changes
 
