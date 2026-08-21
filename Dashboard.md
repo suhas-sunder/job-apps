@@ -1,20 +1,20 @@
 # Job Application Dashboard
 
-_Last reviewed: 2026-08-17_
+_Last reviewed: 2026-08-21_
 
 ## Pipeline at a Glance
 
 - **Confirmed applications tracked:** 6
-- **Active:** 5
-- **Rejected:** 1
+- **Active:** 4
+- **Rejected:** 2
 - **Interviews / assessments / offers:** 0
 
 ## Pipeline Flow
 
 ```mermaid
 flowchart LR
-    S["Confirmed Applications<br/>6"] -->|5| A["Applied<br/>5"]
-    S -->|1| R["Rejected<br/>1"]
+    S["Confirmed Applications<br/>6"] -->|4| A["Applied<br/>4"]
+    S -->|2| R["Rejected<br/>2"]
 ```
 
 > This flow is regenerated whenever the tracker is reconciled. As applications advance, the diagram should expand to show recruiter screens, interviews, assessments, final stages, offers, and terminal outcomes using confirmed tracker history.
@@ -24,13 +24,13 @@ flowchart LR
 | Status | Count |
 |---|---:|
 | Considering | 0 |
-| Applied | 5 |
+| Applied | 4 |
 | Recruiter Screen | 0 |
 | Interview | 0 |
 | Assessment | 0 |
 | Final Stage | 0 |
 | Offer | 0 |
-| Rejected | 1 |
+| Rejected | 2 |
 | Withdrawn | 0 |
 | Closed / No Response | 0 |
 
@@ -38,7 +38,6 @@ flowchart LR
 
 | Company | Role | Location | Category | Applied | Status | Last Update |
 |---|---|---|---|---|---|---|
-| Capital One | Associate, Software Engineer, New Grad Card Expansion | Not confirmed | Software Engineering | 2026-08-10 | Applied | 2026-08-10 |
 | WSP | Early Professional, Transmission Line Engineer/Designer | Edmonton, AB | Power/Grid | 2026-08-11 | Applied | 2026-08-11 |
 | Phasor Engineering Inc | Electrical EIT | Not confirmed | Electrical Engineering | 2026-08-11 | Applied | 2026-08-11 |
 | TRS Staffing Solutions | Electrical Project Engineer | British Columbia, Canada | Electrical / Project Engineering | 2026-08-11 | Applied | 2026-08-11 |
@@ -48,11 +47,11 @@ flowchart LR
 
 | Company | Role | Applied | Status | Last Update |
 |---|---|---|---|---|
+| Capital One | Associate, Software Engineer, New Grad Card Expansion | 2026-08-10 | Rejected | 2026-08-20 |
 | Boston Scientific | Systems Engineer I | Not confirmed | Rejected | 2026-08-11 |
 
 ## Follow-Ups / Action Items
 
-- Monitor Capital One for recruiter or hiring-team follow-up. Under the tracker aging rule, close as `Closed / No Response` after 30 calendar days without employer activity unless there is evidence the process remains active.
 - Monitor WSP for recruiter follow-up after application confirmation and identity verification.
 - Monitor Phasor Engineering for employer response.
 - Monitor TRS Staffing Solutions for employer or recruiter follow-up.
