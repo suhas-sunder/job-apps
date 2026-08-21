@@ -2,6 +2,14 @@
 
 Chronological record of material changes to the job application tracker.
 
+## 2026-08-21
+
+- Reconciled Hotmail job-application correspondence since the prior review.
+- Capital One explicitly rejected the `Associate, Software Engineer, New Grad Card Expansion` application (reference R247320) on 2026-08-20, stating that it was moving forward with applicants further along in the process. Updated status from `Applied` to `Rejected`.
+- Refreshed dashboard totals to 6 confirmed applications: 4 active and 2 rejected.
+- No recruiter screens, interview invitations, assessments, offers, withdrawals, or other confirmed application-stage changes were found in the reviewed mail.
+- No active application reached the 30-calendar-day `Closed / No Response` threshold.
+
 ## 2026-08-17
 
 - Reconciled Hotmail messages received since the prior tracker review.
