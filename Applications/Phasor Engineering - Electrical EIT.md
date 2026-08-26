@@ -4,9 +4,9 @@ role: "Electrical EIT"
 location: ""
 category: "Electrical Engineering"
 date_applied: "2026-08-11"
-status: "Applied"
-last_update: "2026-08-11"
-source: "Hotmail application confirmation"
+status: "Rejected"
+last_update: "2026-08-25"
+source: "Hotmail application confirmation and rejection"
 job_url: "https://phasorengineering.workable.com/jobs/6016871"
 recruiter: ""
 resume_version: "suhas_sunder_resume_2026.docx"
@@ -22,12 +22,12 @@ cover_letter: ""
 - **Location:** Not confirmed from email
 - **Category:** Electrical Engineering
 - **Job URL:** https://phasorengineering.workable.com/jobs/6016871
-- **Source:** Hotmail application confirmation from Workable
+- **Source:** Hotmail application confirmation and rejection from Workable
 
 ## Application
 
 - **Date applied:** 2026-08-11
-- **Status:** Applied
+- **Status:** Rejected
 - **Resume version:** suhas_sunder_resume_2026.docx
 - **Cover letter:** Not confirmed from email
 - **Application ID / reference:** Workable job 6016871
@@ -57,6 +57,7 @@ cover_letter: ""
 | Date | Event | Notes |
 |---|---|---|
 | 2026-08-11 | Application submitted | Workable confirmation states the Electrical EIT application was submitted successfully. |
+| 2026-08-25 | Rejected | Phasor Engineering Inc stated that it would not be moving forward with the application. |
 
 ## Interview Notes
 
@@ -70,7 +71,7 @@ cover_letter: ""
 
 ### Follow-up
 
-- Monitor for employer response.
+- None; application closed by employer.
 
 ## Notes
 
