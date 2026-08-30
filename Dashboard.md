@@ -1,6 +1,6 @@
 # Job Application Dashboard
 
-_Last reviewed: 2026-08-29_
+_Last reviewed: 2026-08-30_
 
 ## Pipeline at a Glance
 
